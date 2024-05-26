@@ -1,0 +1,6 @@
+Instalando o SPARK, JDK, HADOOP:
+
+https://www.youtube.com/watch?v=OmcSTQVkrvo&list=PL6UwySlcwEYKiC-EjEmN4f33c5fVpbzha&index=2
+
+INSTALAÇÃO A IDE para usar Pyspark:
+https://www.youtube.com/watch?v=QbS1XT_D7CM&list=PL6UwySlcwEYKiC-EjEmN4f33c5fVpbzha&index=3
